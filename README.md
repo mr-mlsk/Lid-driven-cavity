@@ -5,14 +5,14 @@ SIMPLE(Semi-Implicit Method for Pressure-Linked Equation) algorithm implemented 
 Results(Re=100)
 
 <p float="left">
-  <img src="https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/results/u_contours.png" width="400" >
-  <img src="https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/results/v_contours.png" width="400"> 
+  <img src="https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/u_contours.png" width="400" >
+  <img src="https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/v_contours.png" width="400"> 
 </p>
 
 <p float="left">
   <img src="https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/pressure_contours.png" width="400">
-  <img src="https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/results/u_centerline.png" width="400"> 
+  <img src="https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/u_centerline.png" width="400"> 
 </p>
   
-<image src= "https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/results/v_centerline.png" width=400>
+<image src= "https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/v_centerline.png" width=400>
 
