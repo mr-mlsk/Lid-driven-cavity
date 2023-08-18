@@ -10,7 +10,7 @@ Results(Re=100)
 </p>
 
 <p float="left">
-  <img src="https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/pressure_contours.png" width="400" >
+  <img src="https://github.com/mr-mlsk/Lid-driven-cavity/blob/main/pressure_contours.png" width="400">
   <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity-Collocated-Grid/blob/main/results/u_centerline.png" width="400"> 
 </p>
   
